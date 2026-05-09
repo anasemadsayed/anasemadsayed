@@ -1,29 +1,29 @@
-<!-- ═══════════════════════════════════════════════════ HEADER ═══ -->
+<!-- ══════════════════════════════════════ HEADER ══════════════════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:003333,100:00ffcc&height=220&section=header&text=Anas%20Emad%20Mousa&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20%7C%20LLMs%20%7C%20RAG%20%7C%20Computer%20Vision%20%7C%20NLP&descAlignY=56&descSize=17&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:060618,40:2d1b69,100:7c3aed&height=220&section=header&text=Anas%20Emad%20Mousa&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20%7C%20LLMs%20%7C%20RAG%20%7C%20Computer%20Vision%20%7C%20NLP&descAlignY=56&descSize=17&animation=fadeIn" />
 </p>
 
-<!-- Typing -->
+<!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems+%F0%9F%A7%A0;Fine-tuning+LLMs+%7C+LLaMA+%7C+DeepSeek;RAG+Pipelines+%7C+LangChain+%7C+LangGraph;Computer+Vision+%7C+YOLO+%7C+Real-Time+CV;Arabic+NLP+%7C+TTS+%7C+Agentic+AI;Turning+Data+into+Decisions+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems+%F0%9F%A7%A0;Fine-tuning+LLMs+%7C+LLaMA+%7C+DeepSeek;RAG+Pipelines+%7C+LangChain+%7C+LangGraph;Computer+Vision+%7C+YOLO+%7C+Real-Time+CV;Arabic+NLP+%7C+TTS+%7C+Agentic+AI;Turning+Data+into+Decisions+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<!-- Badges row -->
+<!-- Badges -->
 <p align="center">
   <a href="https://github.com/anasemadsayed">
-    <img src="https://img.shields.io/github/followers/anasemadsayed?label=Follow&style=for-the-badge&color=00ffcc&labelColor=0d0d0d&logo=github" />
+    <img src="https://img.shields.io/github/followers/anasemadsayed?label=Follow&style=for-the-badge&color=a78bfa&labelColor=060618&logo=github" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=anasemadsayed&label=Profile+Views&color=00ffcc&style=for-the-badge&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/Open%20To%20Work-00ffcc?style=for-the-badge&logo=googlemeet&logoColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/Cairo%2C%20Egypt%20🇪🇬-0d0d0d?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=anasemadsayed&label=Profile+Views&color=a78bfa&style=for-the-badge&labelColor=060618" />
+  <img src="https://img.shields.io/badge/Open%20To%20Work-a78bfa?style=for-the-badge&logo=googlemeet&logoColor=060618" />
+  <img src="https://img.shields.io/badge/Cairo%2C%20Egypt%20🇪🇬-060618?style=for-the-badge" />
 </p>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════ ABOUT ═══ -->
+<!-- ══════════════════════════════════════ ABOUT ══════════════════════════════════════ -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> &nbsp;About Me
 
-<img align="right" width="360" src="https://media.giphy.com/media/RDZo7znAdn2u7sAcWH/giphy.gif" />
+<img align="right" width="340" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 
 ```python
 class AnasEmad:
@@ -57,7 +57,7 @@ class AnasEmad:
 
 ---
 
-<!-- ═══════════════════════════════════════════════════ EXPERIENCE ═══ -->
+<!-- ══════════════════════════════════════ EXPERIENCE ══════════════════════════════════════ -->
 ## 💼 Experience
 
 <img align="right" width="280" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
@@ -71,127 +71,114 @@ class AnasEmad:
 ### 🏢 Ai Tronix — *AI Engineer Intern*
 `Jan 2026 → Feb 2026`
 - Built a custom **TTS fine-tuning pipeline** targeting Egyptian Arabic accent
-- Designed full **dataset creation pipeline**: audio collection, transcription, preprocessing
+- Designed full **dataset creation pipeline**: audio, transcription, preprocessing
 - Ran iterative fine-tuning experiments on TTS architectures to optimize quality
 
 <br clear="right"/>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════ PROJECTS ═══ -->
-## 🚀 Featured Projects
+<!-- ══════════════════════════════════════ SKILLS ══════════════════════════════════════ -->
+## 🛠️ Tech Stack & Skills
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="420" />
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60" />
 </p>
 
-| 🔥 Project | 📌 Description | 🛠️ Stack |
-|---|---|---|
-| **Multimodal RAG System** | Document intelligence — Q&A over PDFs with text, tables & images | LangChain · Unstructured · FAISS |
-| **Retail CV System (YOLO)** | Real-time person detection, tracking, visitor counting & heatmaps in mall | YOLO · OpenCV · PyTorch |
-| **LLM Fine-Tuning (LLaMA & DeepSeek)** | Fine-tuned open-source LLMs on CoT datasets to boost multi-step reasoning | PyTorch · HuggingFace · LoRA |
-| **PDF Corrective RAG Chatbot** | NL Q&A over PDF docs — ingestion, vector embedding, semantic search | LangChain · FAISS · Chroma |
-| **Transformer Fine-Tuning Suite** | BERT (classification) · ALBERT (summarization) · RoBERTa (QA) | HuggingFace · PyTorch |
-| **S&P 500 Direction Predictor** | Binary classifier predicting intraday S&P 500 direction from live data | XGBoost · LightGBM · Pandas |
-| **Premier League Outcome Predictor** | Predicts match outcomes using real-time stats & feature engineering | Scikit-learn · Ensemble Methods |
-| **ML & DL from Scratch** | Linear Regression, Logistic Regression, ANN, CNN (MNIST) — pure NumPy | NumPy · Python · Math |
+<!-- Core Languages -->
+<h3 align="center">👨‍💻 Languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp&theme=dark" />
+</p>
+
+<!-- AI / LLMs -->
+<h3 align="center">🤖 LLMs · RAG · Agentic AI</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🦜 LangChain-1a1a2e?style=for-the-badge&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/🕸️ LangGraph-1a1a2e?style=for-the-badge&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/🔭 LangSmith-1a1a2e?style=for-the-badge&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/🤗 HuggingFace-1a1a2e?style=for-the-badge&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/⚙️ n8n-1a1a2e?style=for-the-badge&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/✍️ Prompt Engineering-1a1a2e?style=for-the-badge&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/🦙 LLaMA-1a1a2e?style=for-the-badge&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/🐋 DeepSeek-1a1a2e?style=for-the-badge&logoColor=a78bfa" />
+</p>
+
+<!-- Deep Learning -->
+<h3 align="center">🧠 Deep Learning & NLP</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/🔁 Transformers-1a1a2e?style=for-the-badge&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/📝 BERT-1a1a2e?style=for-the-badge&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/📝 RoBERTa-1a1a2e?style=for-the-badge&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/📝 ALBERT-1a1a2e?style=for-the-badge&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/🔊 ANN · CNN · RNN · LSTM-1a1a2e?style=for-the-badge&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/🗣️ Arabic NLP-1a1a2e?style=for-the-badge&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/🔊 TTS Fine--Tuning-1a1a2e?style=for-the-badge&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/🔁 Transfer Learning-1a1a2e?style=for-the-badge&logoColor=a78bfa" />
+</p>
+
+<!-- Computer Vision -->
+<h3 align="center">👁️ Computer Vision</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=opencv&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🎯 YOLO-1a1a2e?style=for-the-badge&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/🕵️ Object Detection-1a1a2e?style=for-the-badge&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/🚶 Object Tracking-1a1a2e?style=for-the-badge&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/🗺️ Heatmap Analysis-1a1a2e?style=for-the-badge&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/✂️ Image Segmentation-1a1a2e?style=for-the-badge&logoColor=a78bfa" />
+</p>
+
+<!-- Machine Learning -->
+<h3 align="center">📊 Machine Learning & Data Science</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/📦 XGBoost-1a1a2e?style=for-the-badge&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/💡 LightGBM-1a1a2e?style=for-the-badge&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/🐱 CatBoost-1a1a2e?style=for-the-badge&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/🌲 Random Forest-1a1a2e?style=for-the-badge&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/📈 Feature Engineering-1a1a2e?style=for-the-badge&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/🔍 EDA-1a1a2e?style=for-the-badge&logoColor=a78bfa" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" />
+</p>
+
+<!-- Vector DBs -->
+<h3 align="center">🗄️ Databases & Vector Stores</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/🔷 FAISS-1a1a2e?style=for-the-badge&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/🟣 Chroma-1a1a2e?style=for-the-badge&logoColor=a78bfa" />
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" />
+</p>
+
+<!-- Tools -->
+<h3 align="center">⚙️ Tools & Platforms</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,fastapi&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/☁️ Google Colab-1a1a2e?style=for-the-badge&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/📓 Jupyter-1a1a2e?style=for-the-badge&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/🐧 WSL-1a1a2e?style=for-the-badge&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/🏆 Kaggle-1a1a2e?style=for-the-badge&logoColor=a78bfa" />
+</p>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════ SKILLS ═══ -->
-## 🛠️ Tech Stack
-
-<p align="center"><b>🤖 LLMs & Agentic AI</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-0d0d0d?style=for-the-badge&logo=chainlink&logoColor=00ffcc" />
-  <img src="https://img.shields.io/badge/LangGraph-0d0d0d?style=for-the-badge&logo=graphql&logoColor=00ffcc" />
-  <img src="https://img.shields.io/badge/LangSmith-0d0d0d?style=for-the-badge&logo=langchain&logoColor=00ffcc" />
-  <img src="https://img.shields.io/badge/HuggingFace-0d0d0d?style=for-the-badge&logo=huggingface&logoColor=00ffcc" />
-  <img src="https://img.shields.io/badge/n8n-0d0d0d?style=for-the-badge&logo=n8n&logoColor=00ffcc" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-0d0d0d?style=for-the-badge&logo=openai&logoColor=00ffcc" />
-</p>
-
-<p align="center"><b>🧠 Deep Learning & Computer Vision</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-0d0d0d?style=for-the-badge&logo=pytorch&logoColor=00ffcc" />
-  <img src="https://img.shields.io/badge/TensorFlow-0d0d0d?style=for-the-badge&logo=tensorflow&logoColor=00ffcc" />
-  <img src="https://img.shields.io/badge/Keras-0d0d0d?style=for-the-badge&logo=keras&logoColor=00ffcc" />
-  <img src="https://img.shields.io/badge/YOLO-0d0d0d?style=for-the-badge&logo=yolo&logoColor=00ffcc" />
-  <img src="https://img.shields.io/badge/OpenCV-0d0d0d?style=for-the-badge&logo=opencv&logoColor=00ffcc" />
-  <img src="https://img.shields.io/badge/Transformers-0d0d0d?style=for-the-badge&logo=huggingface&logoColor=00ffcc" />
-</p>
-
-<p align="center"><b>📊 Machine Learning & Data Science</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Scikit--Learn-0d0d0d?style=for-the-badge&logo=scikitlearn&logoColor=00ffcc" />
-  <img src="https://img.shields.io/badge/XGBoost-0d0d0d?style=for-the-badge&logo=xgboost&logoColor=00ffcc" />
-  <img src="https://img.shields.io/badge/LightGBM-0d0d0d?style=for-the-badge&logo=lightgbm&logoColor=00ffcc" />
-  <img src="https://img.shields.io/badge/CatBoost-0d0d0d?style=for-the-badge&logo=catboost&logoColor=00ffcc" />
-  <img src="https://img.shields.io/badge/Pandas-0d0d0d?style=for-the-badge&logo=pandas&logoColor=00ffcc" />
-  <img src="https://img.shields.io/badge/NumPy-0d0d0d?style=for-the-badge&logo=numpy&logoColor=00ffcc" />
-  <img src="https://img.shields.io/badge/Matplotlib-0d0d0d?style=for-the-badge&logo=plotly&logoColor=00ffcc" />
-  <img src="https://img.shields.io/badge/Seaborn-0d0d0d?style=for-the-badge&logo=python&logoColor=00ffcc" />
-</p>
-
-<p align="center"><b>🗄️ Databases & Vector Stores</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/FAISS-0d0d0d?style=for-the-badge&logo=meta&logoColor=00ffcc" />
-  <img src="https://img.shields.io/badge/Chroma-0d0d0d?style=for-the-badge&logo=databricks&logoColor=00ffcc" />
-  <img src="https://img.shields.io/badge/SQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=00ffcc" />
-</p>
-
-<p align="center"><b>⚙️ Languages, Tools & Platforms</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=00ffcc" />
-  <img src="https://img.shields.io/badge/C++-0d0d0d?style=for-the-badge&logo=cplusplus&logoColor=00ffcc" />
-  <img src="https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=00ffcc" />
-  <img src="https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=00ffcc" />
-  <img src="https://img.shields.io/badge/FastAPI-0d0d0d?style=for-the-badge&logo=fastapi&logoColor=00ffcc" />
-  <img src="https://img.shields.io/badge/Postman-0d0d0d?style=for-the-badge&logo=postman&logoColor=00ffcc" />
-  <img src="https://img.shields.io/badge/Google%20Colab-0d0d0d?style=for-the-badge&logo=googlecolab&logoColor=00ffcc" />
-  <img src="https://img.shields.io/badge/Jupyter-0d0d0d?style=for-the-badge&logo=jupyter&logoColor=00ffcc" />
-  <img src="https://img.shields.io/badge/WSL-0d0d0d?style=for-the-badge&logo=linux&logoColor=00ffcc" />
-  <img src="https://img.shields.io/badge/Kaggle-0d0d0d?style=for-the-badge&logo=kaggle&logoColor=00ffcc" />
-</p>
-
----
-
-<!-- ═══════════════════════════════════════════════════ EDUCATION ═══ -->
-## 🎓 Education & Certifications
-
-<img align="right" width="260" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
-
-**🏛️ Cairo University**
-> Bachelor of Computer Science & Artificial Intelligence
-
-**📚 Route Academy**
-> AI Diploma &nbsp;`Feb 2024 → Aug 2024`
-
-**🏫 Ai Tronix**
-> Advanced AI Diploma &nbsp;`Apr 2025 → Dec 2025`
-
-**📜 Certifications**
-- LangChain for LLM Application Development — *DeepLearning.AI*
-- Full Machine Learning Course — *Hisham Asim*
-
-**🌍 Languages**
-- Arabic — Native
-- English — Advanced
-
-<br clear="right"/>
-
----
-
-<!-- ═══════════════════════════════════════════════════ STATS ═══ -->
+<!-- ══════════════════════════════════════ STATS ══════════════════════════════════════ -->
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anasemadsayed&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=00ffcc&icon_color=00ffcc&text_color=ffffff&border_color=00ffcc&rank_icon=github" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anasemadsayed&theme=dark&background=0d0d0d&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc&sideLabels=ffffff&border=00ffcc" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anasemadsayed&show_icons=true&theme=tokyonight&bg_color=060618&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&border_color=7c3aed&rank_icon=github" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anasemadsayed&theme=tokyonight&background=060618&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=ffffff&border=7c3aed" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasemadsayed&layout=compact&theme=dark&bg_color=0d0d0d&title_color=00ffcc&text_color=ffffff&border_color=00ffcc&langs_count=8" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasemadsayed&layout=compact&theme=tokyonight&bg_color=060618&title_color=a78bfa&text_color=ffffff&border_color=7c3aed&langs_count=8" width="48%" />
 </p>
 
 ---
@@ -199,43 +186,48 @@ class AnasEmad:
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anasemadsayed&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anasemadsayed&theme=discord&no-frame=true&no-bg=true&column=6&margin-w=6" />
 </p>
 
 ---
 
-## 📈 Activity Graph
+<!-- ══════════════════════════════════════ QUOTE ══════════════════════════════════════ -->
+## 💬 Coding Quote
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anasemadsayed&bg_color=0d0d0d&color=00ffcc&line=00ffcc&point=ffffff&area=true&border_color=00ffcc" width="95%" />
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"/>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════ CONNECT ═══ -->
+<!-- ══════════════════════════════════════ CONNECT ══════════════════════════════════════ -->
 ## 🌐 Let's Connect
 
 <p align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50" />
-  &nbsp; <b>I love connecting with fellow AI builders and researchers!</b>
+  &nbsp;<b>Always happy to connect with fellow AI engineers and researchers!</b>
 </p>
 
 <p align="center">
   <a href="https://github.com/anasemadsayed">
-    <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=00ffcc" />
+    <img src="https://img.shields.io/badge/GitHub-060618?style=for-the-badge&logo=github&logoColor=a78bfa" />
   </a>
   <a href="https://www.linkedin.com/in/anas-emad-mousa">
-    <img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00ffcc" />
+    <img src="https://img.shields.io/badge/LinkedIn-060618?style=for-the-badge&logo=linkedin&logoColor=a78bfa" />
   </a>
   <a href="mailto:anasemadmousa@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=00ffcc" />
+    <img src="https://img.shields.io/badge/Gmail-060618?style=for-the-badge&logo=gmail&logoColor=a78bfa" />
   </a>
   <a href="https://www.kaggle.com/code/anasemadmousa">
-    <img src="https://img.shields.io/badge/Kaggle-0d0d0d?style=for-the-badge&logo=kaggle&logoColor=00ffcc" />
+    <img src="https://img.shields.io/badge/Kaggle-060618?style=for-the-badge&logo=kaggle&logoColor=a78bfa" />
   </a>
 </p>
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,50:003333,100:0d0d0d&height=130&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,60:2d1b69,100:060618&height=130&section=footer" />
 </p>
