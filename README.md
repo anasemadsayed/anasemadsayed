@@ -20,7 +20,7 @@
 ---
 
 <!-- GIF + About Me -->
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzZmcGpvaWM5dThwcXo4djV3c2wzcWE4NWhocDZzb2FrNG43MG1iYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="340" />
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdnNHZ0aGNtMW56eTZpaHF3NXhkcThxbXM3eTFhNTQ2MzFweGo4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.gif" width="340" />
 
 ### 👨‍💻 About Me
 
@@ -112,14 +112,6 @@ class AiEngineer:
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anasemadsayed/anasemadsayed/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 ## 💬 Quote of the Day
 
 <p align="center">
@@ -142,6 +134,16 @@ class AiEngineer:
   </a>
   <a href="https://linkedin.com/in/anasemadsayed">
     <img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00ffcc" />
+  </a>
+  <a href="https://kaggle.com/anasemadsayed">
+    <img src="https://img.shields.io/badge/Kaggle-0d0d0d?style=for-the-badge&logo=kaggle&logoColor=00ffcc" />
+  </a>
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:0d0d0d&height=120&section=footer" />
+</p>
   </a>
   <a href="https://kaggle.com/anasemadsayed">
     <img src="https://img.shields.io/badge/Kaggle-0d0d0d?style=for-the-badge&logo=kaggle&logoColor=00ffcc" />
